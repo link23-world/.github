@@ -8,6 +8,7 @@ Hi and welcome to the link23 sandbox, this is where we develop and host tools th
 3. [Contributing](#contributing)
 4. [Tool lifecycle](#tool-lifecycle)
 5. [Hosting your tool](#hosting-your-tool)
+6. [Licensing and citing](#licensing-and-citing)
 
 ## About link23
 
@@ -63,3 +64,9 @@ We want our space to be as easy to use as possible so we try not to place too ma
 ## Hosting your tool
 
 If you want your tool to be hosted in the link23 organisation, either [join our Slack](https://link23.world/slack) and message one of our leads (we're the ones with 👋 emojis next to our names), or open an issue in the [sandbox repository](https://github.com/link23-world/sandbox).
+
+## Licensing and citing
+
+All tools (in rare cases, exceptions may be mutually agreed) in this sandbox are licenced under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) or [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), full details [can be read here](https://github.com/link23-world/sandbox/blob/main/LICENSE.md).
+
+All tools in the sandbox will have a citation file to help you cite tools correctly, in general these will look something like "link23. <TOOL NAME> (Version <VERSION NUMBER>) https://doi.org/<ZENODO DOI>".
