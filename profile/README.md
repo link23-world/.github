@@ -69,4 +69,4 @@ If you want your tool to be hosted in the link23 organisation, either [join our 
 
 All tools (in rare cases, exceptions may be mutually agreed) in this sandbox are licenced under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) or [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), full details [can be read here](https://github.com/link23-world/sandbox/blob/main/LICENSE.md).
 
-All tools in the sandbox will have a citation file to help you cite tools correctly, in general these will look something like "link23. <TOOL NAME> (Version <VERSION NUMBER>) https://doi.org/<ZENODO DOI>".
+All tools in the sandbox will have a citation file to help you cite tools correctly, in general these will look something like "link23. [TOOL NAME] (Version [VERSION NUMBER]) https://doi.org/[ZENODO DOI]".
