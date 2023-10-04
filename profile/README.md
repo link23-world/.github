@@ -5,8 +5,9 @@ Hi and welcome to the link23 sandbox, this is where we develop and host tools th
 **Table of Contents**
 1. [About link23](#about-link23)
 2. [Code of conduct](#code-of-conduct)
-3. [Tool lifecycle](#tool-lifecycle)
-4. [Hosting your tool](#hosting-your-tool)
+3. [Contributing](#contributing)
+4. [Tool lifecycle](#tool-lifecycle)
+5. [Hosting your tool](#hosting-your-tool)
 
 ## About link23
 
