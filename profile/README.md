@@ -4,8 +4,9 @@ Hi and welcome to the link23 sandbox, this is where we develop and host tools th
 
 **Table of Contents**
 1. [About link23](#about-link23)
-2. [Tool lifecycle](#tool-lifecycle)
-3. [Hosting your tool](#hosting-your-tool)
+2. [Code of conduct](#code-of-conduct)
+3. [Tool lifecycle](#tool-lifecycle)
+4. [Hosting your tool](#hosting-your-tool)
 
 ## About link23
 
@@ -18,6 +19,16 @@ We are on a **mission** to improve equity and diversity in the providers, users,
 By doing this we hope to achieve our **vision** of a globally inclusive genomics landscape, where genomic tools equitably benefit all individuals, enabling breakthroughs in healthcare, research, and societal progress for all communities.
 
 You can read (and comment on!) our [full strategy here](https://docs.google.com/document/d/1hZDHUrFCtIB4YEMnPacynezBO-WnDdrJOa-FvOYqa5g/edit?usp=sharing).
+
+## Code of conduct
+
+We want link23 to be a safe space that allows all people from all backgrounds to take part.
+As you interact with the link23 community on GitHub, Slack, or any other platform, please make sure you abide by our [code of conduct](https://github.com/link23-world/sandbox/blob/main/CODE_OF_CONDUCT.md).
+
+## Contributing
+
+We welcome contributions to our GitHub organisation from anyone.
+To take part, and to learn about how we credit people, please read our [contribution guidelines](https://github.com/link23-world/sandbox/blob/main/CONTRIBUTING.md), which also explain how you can get support when working with GitHub.
 
 ## Tool lifecycle
 
