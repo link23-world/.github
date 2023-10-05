@@ -20,7 +20,7 @@ This could include software, a how-to guide for solving a particular task, a (pr
 We are on a **mission** to improve equity and diversity in the providers, users, and beneficiaries of genomic tools through open science and inclusive research practices.
 By doing this we hope to achieve our **vision** of a globally inclusive genomics landscape, where genomic tools equitably benefit all individuals, enabling breakthroughs in healthcare, research, and societal progress for all communities.
 
-You can read (and comment on!) our [full strategy here](https://docs.google.com/document/d/1hZDHUrFCtIB4YEMnPacynezBO-WnDdrJOa-FvOYqa5g/edit?usp=sharing).
+You can read (and comment on!) our [full strategy here](https://genomicsenglandltd.sharepoint.com/:w:/s/Link23-world/EeV9ESxTaP1GiPQDNf1An98BfY7PEWsaNzQlFIB0u6E46Q?e=3KWVh8).
 
 ## Code of conduct
 
