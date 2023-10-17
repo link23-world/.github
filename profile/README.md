@@ -36,12 +36,12 @@ To take part, and to learn about how we credit people, please read our [contribu
 
 Tools in the sandbox are categorised by the following lifecycle:
 
-#### ![Static Badge](https://img.shields.io/badge/link23_Tool-In_Development-purple?style=plastic&label=link23%20Tool&color=%23FC4E1A) In Development 
+#### ![Static Badge](https://img.shields.io/badge/link23_Tool-In_Development-purple?style=plastic&label=link23%20Tool&color=%23FFB300) In Development 
 
 We believe in developing in the open, this means we use public repositories and open-source licenses from Day 0.
 You are welcome to comment on, and contribute to, tools in development, but their design and interface will be rapidly changing so we do not recommend them for everyday use!
 
-#### ![Static Badge](https://img.shields.io/badge/link23_Tool-Prototype-purple?style=plastic&label=link23%20Tool&color=%23FDD80D) Prototype
+#### ![Static Badge](https://img.shields.io/badge/link23_Tool-Prototype-purple?style=plastic&label=link23%20Tool&color=%2326913d) Prototype
 
 We feel confident about sharing our prototype tools with the world.
 They will not look their best and the user design is likely to change (maybe significantly) but the core concept of the tool should be fixed.
@@ -50,13 +50,13 @@ Developing in the open means that we are happy to fail openly too!
 If a prototype just doesn't work and the tool isn't useful, we will publicly archive the repository and move onto our next best idea.
 That's why this is a 'sandbox', it's a safe place to play with new ideas.
 
-#### ![Static Badge](https://img.shields.io/badge/link23_Tool-Stable-purple?style=plastic&label=link23%20Tool&color=%23170DF2) Stable
+#### ![Static Badge](https://img.shields.io/badge/link23_Tool-Stable-purple?style=plastic&label=link23%20Tool&color=%23005eb8) Stable
 
 Stable tools are ready for everyday use.
 Only minor changes (hopefully non-breaking!) should be made at this point and we are confident the tool fits a real-world need.
 Stable tools will be highlighted in the [link23 toolbox](https://link23.world/toolbox).
 
-#### ![Static Badge](https://img.shields.io/badge/link23_Tool-Hosted-purple?style=plastic&label=link23%20Tool&color=%23FFADFF) Hosted
+#### ![Static Badge](https://img.shields.io/badge/link23_Tool-Hosted-purple?style=plastic&label=link23%20Tool&color=%23df007d) Hosted
 
 Hosted tools are those that were not created inside the link23 community but we have agreed to host in our organisation on behalf of another maintainer.
 We want our space to be as easy to use as possible so we try not to place too many restrictions on new developers, therefore hosted tools may not fit into the lifecycle listed above.
