@@ -1,6 +1,15 @@
 # link23 sandbox
 
-> # Please note, all repositories in this organisation are now in public archive.
+## On Pause
+
+link23 is currently on pause and all repositories in this organisation are now in public archive.
+link23 was an intiative started at Genomics England to develop and showcase tools for genomic equity.
+The initiative focused on developing a community of volunteers who were all committed to improving equity in genomic research by creating and finding tools that could help researchers promote and use more equitable practices.
+The initative was created in 2022 and piloted through 2023 but ultimately we decided to put link23 on pause *for now* until we could find another host organisation that could provide more full-time support for link23.
+If you're interested in learning more about link23, or hosting it yourself, you can check-out our [public Notion](https://www.notion.so/genomics-england/b8a11c994f1946cc988df13b95a889c0?v=eae99657ac9e49869372c75e0587b38c&pvs=4) that contains all our documentation.
+
+## The sandbox
+
 
 Hi and welcome to the link23 sandbox, this is where we develop and host tools that are part of [link23](https://link23.world).
 
