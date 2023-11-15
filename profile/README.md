@@ -1,5 +1,7 @@
 # link23 sandbox
 
+> # Please note, all repositories in this organisation are now in public archive.
+
 Hi and welcome to the link23 sandbox, this is where we develop and host tools that are part of [link23](https://link23.world).
 
 **Table of Contents**
